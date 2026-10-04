@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" width="48" height="48">
+  <defs>
+    <linearGradient id="apexGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0B172D" />
+      <stop offset="100%" stop-color="#1E3A8A" />
+    </linearGradient>
+    <linearGradient id="goldGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#FBBF24" />
+      <stop offset="100%" stop-color="#D97706" />
+    </linearGradient>
+  </defs>
+  <rect width="48" height="48" rx="12" fill="url(#apexGrad)" />
+  <!-- Apex Peak / Mountain of Growth -->
+  <path d="M24 8 L38 34 L31 34 L24 20 L17 34 L10 34 Z" fill="url(#goldGrad)" />
+  <!-- Inner Academic Horizon / Book Base -->
+  <path d="M16 37 C20 35 24 35 24 35 C24 35 28 35 32 37 L32 39 C28 37 24 37 24 37 C24 37 20 37 16 39 Z" fill="#FFFFFF" opacity="0.9" />
+  <!-- Spark of Achievement -->
+  <circle cx="24" cy="14" r="2.5" fill="#FFFFFF" />
+</svg>

@@ -1,0 +1,5 @@
+# Robots.txt for Apex Career Institute Demo
+User-agent: *
+Allow: /
+
+Sitemap: https://apexcareerinstitute.example/sitemap.xml
